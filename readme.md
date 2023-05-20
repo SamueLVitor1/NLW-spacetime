@@ -2,7 +2,7 @@
 
 <img src="src/img/exemplo.png" alt="imagem da página feita durante o NLW">
 
-📌<a href="https://samuelvitor1.github.io/NLW-spacetime/" target="_blank">Site</a>
+📌<a href="https://samuelvitor1.github.io/NLW-spacetime/" target="_blank">Projeto</a>
 
 📝 Projeto feito durante a semana NLW-spacetime da rocketseat onde aprendi mais sobre conceitos de html, css, git e um pouco de figma também. Durante as aulas fui fazendo juntamente com o professor e no final modifiquei o tema para uma Cápsula do tempo dos meus jogos favoritos!
 
