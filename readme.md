@@ -1,6 +1,6 @@
 # NLW-spacetime
 
-<img src="src/exemplo.png" alt="imagem da página feita durante o NLW">
+<img src="src/img/exemplo.png" alt="imagem da página feita durante o NLW">
 
 📝 Projeto feito durante a semana NLW-spacetime da rocketseat onde aprendi mais sobre conceitos de html, css, git e um pouco de figma também. Durante as aulas fui fazendo juntamente com o professor e no final modifiquei o tema para uma Cápsula do tempo dos meus jogos favoritos!
 
